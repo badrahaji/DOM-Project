@@ -1,0 +1,4 @@
+a Fruit store online shopping cart . 
+by clicking on cart icon you can add your picked items to your cart .
+this moment you click on top cart icon new <div> will appear to show you the items
+ you've got selected and ready to buy . 
